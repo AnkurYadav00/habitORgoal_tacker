@@ -108,5 +108,3 @@ def delete_data(username, graphID, Token, date):
 
 # delete existing data using DELETE API request
 # delete_data(USERNAME, ACTIVITY, TOKEN, '20230922')
-
-# access graph : https://pixe.la/v1/users/loveforc0de/graphs/coding.html
